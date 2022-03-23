@@ -1,0 +1,22 @@
+Otakettu
+
+Walktrough
+
+Pelissä pelaat Otakettuna. Tehtäväsi on saada Otajänis kiinni liikkumalla kartalla, tähän sinulla on pelin alusta 20 kierrosta aikaa. Pelaaja eli Otakettu
+syntyy pelin alussa kappelipuistoon kun taas Otajänis syntyy satunnaisesti pelin alussa joko niemenkärkeen, kauppakorkeakoululle, alvarinaukiolle tai täffälle
+(paikat joihin spawnaamalla kettu ei voi saada jänistä kiinni ensimmäisellä liikkeellä). Näet pelin aikana kartalla oman sijainnin sekä kolmen kierroksen
+välein Otajäniksen sijainnin niin, että Otajänis näyttäytyy ensimmäisen kerran kierroksella 0. Pelin aikana kartalla voi tulla vastaan sattumia jotka helpottavat
+tai vaikeuttavat pelin tavoitteen saavuttamista. Sattumia on taikasieni, teekkarilauma ja Otakotka. Jokainen sattuma spawnaa kartalle ensimmäisen liikkeesi
+jälkeen ja voi tulla sattumalta vastaan kun liikut kartalla. Kun löydät taikasienen voit sen syömällä "haistaa Otajäniksen" eli nähdä sen kartalla seuraavan kahden
+vuoron ajan. Jos osut teekkarilauman kohdalle pelästyy Otakettu ja siirtyy pakoon johonkin viereisistä ruuduista, eli käytännössä paikka johon teekkarilauma
+syntyy on kyseisen pelin ajan ruutu johon ei voi astua. Otakotkan kohdalle osuessa kotka tarjoutuu lennättämään sinut mihin tahansa pisteeseen kartalla. 
+Otakotkan kohdalle osuessa et voi nähdä Otajänistä vaikka olsit syönyt sienen. Otakotka syntyy ensimmäisen kierroksen jälkeen niemenkärkeen, jämeränrantaan tai
+rantasaunalle.
+
+Pelin läpäisemiseen ei ole mitään varmaa kikkaa, mutta pelin läpäisemistä voi helpottaa mm. ajoittamalla löytämänsä sienen syönnin niin, että syö sen sellaisen
+kierroksen jälkeen jolloin jänis on näyttäytynyt, näin käytännössä kykenee näkemään jäniksen neljän vuron ajan. Teekkarilaumaa voi myös käyttää periaatteessa yhden
+vuoron aikana kahden ruudun välin liikkumiseen sillä hinnalla, että paikka jonne päätyy on jokseenkin satunnainen. Otakotkaa kannattaa myös hyödyntää eli pelin
+alussa liike "itärantaa" kohti voi helpottaa Otajäniksen kannoille pääsyä.
+
+Peliä pelataan antamalla komentoja tekstikenttään joka pitäisi olla ilman erillistä erittelyä pelin ohjeiden mukaisesti selvää.
+
